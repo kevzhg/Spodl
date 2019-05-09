@@ -1,6 +1,4 @@
-#Spodl
-
-A tool which can be ran from the command line to download a Spotify playlist through Youtube, via youtube-dl.
+SpotifyDownload is a tool which can be ran from the command line to download a Spotify playlist through Youtube, via youtube-dl.
 
 Things you need to have this working:
 
